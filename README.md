@@ -1,5 +1,2 @@
 # githome
-# githome
-# githome
-# githome
-# githome
+### examples git e github
