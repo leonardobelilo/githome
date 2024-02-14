@@ -1,1 +1,1 @@
-console.log(`start aplication`)
+console.log("start aplication")
